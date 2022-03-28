@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4700ec96-0e4a-47c7-8702-669e2e35f3f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../flight-checkpoint/src/main/java/com/example/flightcheckpoint/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flight-checkpoint/src/main/java/com/example/flightcheckpoint/FlightsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/AFC-Review-week-one" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/AFC-gilded-rose-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/Galvanize-Phase-II/afc-busdriver-kata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/afc-banking-kata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/afc-busdriver-kata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/afc-java-assessment-prompts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/afc-java-bowling" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/ent-shopping-cart-basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/guessing-game-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-algorithms-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-classes-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-classes-checkpoint-calls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-commandline-arguments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-intro-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-intro-junit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-organization-checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-unit/java-playground/src/main/java/com/galvanize/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandLineTest/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/CommandLineTest/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CommandLineTest/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/CommandLineTest/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/7.3.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/build/classes/java/main/com/galvanize/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../java-unit/java-playground/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-playground/src/main/java/com/galvanize/Application.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26nFZ4tntOZvy76tBN116CvkBZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="JUnit.FunctionalRequirementsTest">
+    <configuration name="FunctionalRequirementsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-exceptions-checkpoint.assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.FunctionalRequirementsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalRequirementsTest.testZipCodeProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-exceptions-checkpoint.assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.FunctionalRequirementsTest" />
+      <option name="METHOD_NAME" value="testZipCodeProcessor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechnicalRequirementsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-exceptions-checkpoint.assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.TechnicalRequirementsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TechnicalRequirementsTest.testVerifier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-exceptions-checkpoint.assessment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galvanize.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galvanize" />
+      <option name="MAIN_CLASS_NAME" value="com.galvanize.TechnicalRequirementsTest" />
+      <option name="METHOD_NAME" value="testVerifier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FunctionalRequirementsTest" />
+        <item itemvalue="JUnit.TechnicalRequirementsTest" />
+        <item itemvalue="JUnit.TechnicalRequirementsTest.testVerifier" />
+        <item itemvalue="JUnit.FunctionalRequirementsTest.testZipCodeProcessor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4700ec96-0e4a-47c7-8702-669e2e35f3f0" name="Changes" comment="" />
+      <created>1648051495705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648051495705</updated>
+      <workItem from="1648051496922" duration="6805000" />
+      <workItem from="1648476393287" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_exceptions_checkpoint$FunctionalRequirementsTest_testZipCodeProcessor.ic" NAME="FunctionalRequirementsTest.testZipCodeProcessor Coverage Results" MODIFIED="1648054092705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.galvanize.*</FILTER>
+    </SUITE>
+  </component>
+</project>
